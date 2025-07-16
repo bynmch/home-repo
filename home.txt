@@ -2,3 +2,4 @@ Hello World!
 hihello
 constrict1
 constrict2
+staging area로 추가
