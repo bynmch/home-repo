@@ -4,3 +4,4 @@ constrict1
 constrict2
 staging area로 추가
 어캐하는겨
+더하면
